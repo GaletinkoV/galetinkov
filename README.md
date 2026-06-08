@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-6%2B%20years-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Fullstack-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Lviv%2C%20Ukraine-yellow?style=flat-square" />
 </p>
 
 ---
