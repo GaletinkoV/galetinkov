@@ -50,7 +50,7 @@ Always exploring new technologies and integrating modern approaches into product
 ---
 
 ### Backend
-`Node.js` `Express` `NestJS` `Prisma ORM`
+`Node.js` `Express` `NestJS` `Prisma ORM` `PostgreSql`
 
 **Auth & Cloud**
 `Firebase Auth` `Firebase Firestore` `Firebase Functions` `AWS Cognito` `Clerk`
